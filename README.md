@@ -96,4 +96,5 @@ void loop()
 Output of the simulation :
 
 [My image](username.github.com/repository/img/image.jpg)
-
+result:
+Thus the simulation output is completed in tinkercard.
