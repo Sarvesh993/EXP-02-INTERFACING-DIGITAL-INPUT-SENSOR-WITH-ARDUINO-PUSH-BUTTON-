@@ -94,7 +94,7 @@ void loop()
 
 
 Output of the simulation :
+![robotics ass1](https://user-images.githubusercontent.com/94881923/188825622-ec077a0c-5653-4efa-973d-ade11be5d943.png)
 
-[My image](username.github.com/repository/img/image.jpg)
 result:
 Thus the simulation output is completed in tinkercard.
